@@ -1,0 +1,168 @@
+.
+├── configs
+│   ├── docker
+│   │   └── srv_docker
+│   │       └── docker
+│   │           ├── dashboard
+│   │           │   ├── dockerproxy
+│   │           │   │   └── compose.yml
+│   │           │   ├── glances
+│   │           │   │   └── compose.yml
+│   │           │   ├── homepage
+│   │           │   │   ├── compose.yml
+│   │           │   │   └── config
+│   │           │   │       ├── bookmarks.yaml
+│   │           │   │       ├── custom.css
+│   │           │   │       ├── custom.js
+│   │           │   │       ├── docker.yaml
+│   │           │   │       ├── kubernetes.yaml
+│   │           │   │       ├── logs
+│   │           │   │       │   └── homepage.log
+│   │           │   │       ├── proxmox.yaml
+│   │           │   │       ├── services.yaml
+│   │           │   │       ├── settings.yaml
+│   │           │   │       └── widgets.yaml
+│   │           │   └── stack
+│   │           │       ├── compose.yaml
+│   │           │       ├── config
+│   │           │       │   ├── bookmarks.yaml
+│   │           │       │   ├── custom.css
+│   │           │       │   ├── custom.js
+│   │           │       │   ├── docker.yaml
+│   │           │       │   ├── kubernetes.yaml
+│   │           │       │   ├── logs
+│   │           │       │   │   └── homepage.log
+│   │           │       │   ├── proxmox.yaml
+│   │           │       │   ├── services.yaml
+│   │           │       │   ├── settings.yaml
+│   │           │       │   └── widgets.yaml
+│   │           │       └── homepage
+│   │           │           └── config
+│   │           │               ├── bookmarks.yaml
+│   │           │               ├── custom.css
+│   │           │               ├── custom.js
+│   │           │               ├── docker.yaml
+│   │           │               ├── kubernetes.yaml
+│   │           │               ├── logs
+│   │           │               │   └── homepage.log
+│   │           │               ├── proxmox.yaml
+│   │           │               ├── services.yaml
+│   │           │               ├── settings.yaml
+│   │           │               └── widgets.yaml
+│   │           ├── dockerproxy
+│   │           │   └── compose.yml
+│   │           ├── glances
+│   │           │   └── compose.yml
+│   │           ├── homepage
+│   │           │   ├── co
+│   │           │   ├── compose.yml
+│   │           │   └── config
+│   │           │       ├── bookmarks.yaml
+│   │           │       ├── custom.css
+│   │           │       ├── custom.js
+│   │           │       ├── docker.yaml
+│   │           │       ├── kubernetes.yaml
+│   │           │       ├── logs
+│   │           │       │   └── homepage.log
+│   │           │       ├── proxmox.yaml
+│   │           │       ├── services.yaml
+│   │           │       ├── settings.yaml
+│   │           │       └── widgets.yaml
+│   │           ├── nextcloud
+│   │           │   ├── compose.yml
+│   │           │   └── .env
+│   │           └── portainer
+│   │               └── compose.yml
+│   ├── lightdm
+│   │   └── lightdm
+│   │       └── lightdm
+│   │           ├── keys.conf
+│   │           ├── lightdm.conf
+│   │           ├── lightdm-gtk-greeter.conf
+│   │           └── users.conf
+│   ├── modules
+│   │   └── uinput.conf
+│   ├── modules-load
+│   ├── network
+│   ├── ssh
+│   │   ├── sshd_config
+│   │   └── sshd_config.d
+│   │       └── sshd_config.d
+│   ├── sunshine
+│   │   └── user_config_sunshine
+│   │       └── sunshine
+│   │           ├── apps.json
+│   │           ├── credentials
+│   │           │   ├── cacert.pem
+│   │           │   └── cakey.pem
+│   │           ├── sunshine.conf
+│   │           ├── sunshine.log
+│   │           └── sunshine_state.json
+│   ├── syncthing
+│   ├── systemd
+│   ├── systemd-user
+│   ├── udev
+│   │   └── rules.d
+│   │       └── rules.d
+│   │           └── 99-uinput.rules
+│   └── xfce
+│       └── xfce4
+│           └── xfce4
+│               ├── desktop
+│               │   ├── accels.scm
+│               │   └── icons.screen0.yaml
+│               ├── panel
+│               │   ├── launcher-13
+│               │   │   └── 17702410881.desktop
+│               │   ├── launcher-14
+│               │   │   └── 17702410882.desktop
+│               │   ├── launcher-15
+│               │   │   └── 17702410883.desktop
+│               │   └── launcher-16
+│               │       └── 17702410884.desktop
+│               ├── xfce4-screenshooter
+│               ├── xfconf
+│               │   └── xfce-perchannel-xml
+│               │       ├── displays.xml
+│               │       ├── keyboards.xml
+│               │       ├── pointers.xml
+│               │       ├── thunar.xml
+│               │       ├── xfce4-desktop.xml
+│               │       ├── xfce4-keyboard-shortcuts.xml
+│               │       ├── xfce4-notifyd.xml
+│               │       ├── xfce4-panel.xml
+│               │       ├── xfce4-power-manager.xml
+│               │       ├── xfce4-screenshooter.xml
+│               │       ├── xfce4-session.xml
+│               │       ├── xfce4-settings-manager.xml
+│               │       ├── xfce4-taskmanager.xml
+│               │       ├── xfce4-terminal.xml
+│               │       ├── xfwm4.xml
+│               │       └── xsettings.xml
+│               └── xfwm4
+├── docs
+│   ├── 00_index.md
+│   └── 99_repo_tree.txt
+├── .gitignore
+├── inventory
+│   ├── 2026-02-06-165340
+│   │   ├── enabled_services.txt
+│   │   ├── ip_a.txt
+│   │   ├── lsblk.txt
+│   │   └── system.txt
+│   ├── 2026-02-06-165621
+│   │   ├── enabled_services.txt
+│   │   ├── ip_a.txt
+│   │   ├── lsblk.txt
+│   │   └── system.txt
+│   └── 2026-02-06-165939
+│       ├── enabled_services.txt
+│       ├── ip_a.txt
+│       ├── lsblk.txt
+│       └── system.txt
+├── README.md
+├── restore
+└── scripts
+    └── collect.sh
+
+62 directories, 104 files

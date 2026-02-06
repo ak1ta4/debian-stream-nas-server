@@ -1,0 +1,10 @@
+# Inventario (guarda snapshots pero no los subas todos)
+inventory/**
+
+# Secretos y llaves
+**/*.key
+**/*.pem
+**/*token*
+**/*secret*
+**/*password*
+**/*.env
