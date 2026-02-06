@@ -1,6 +1,6 @@
-# debian-stream-nas-server (setup replicable, explicado para novatos)
+# debian-stream-nas-server
 
-Este repo documenta un servidor Debian con:
+Este repositorio documenta un servidor Debian con:
 - Dashboard web: Homepage + Glances (Docker)
 - Streaming escritorio: XFCE + Sunshine + Moonlight
 - Fix de input/control: uinput + udev + grupo `input`
