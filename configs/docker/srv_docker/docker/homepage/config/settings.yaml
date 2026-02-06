@@ -1,0 +1,22 @@
+title: Server Dashboard
+language: es
+theme: dark
+headerStyle: clean
+hideVersion: true
+
+layout:
+  Infra:
+    style: row
+    columns: 3
+  Monitoring:
+    style: row
+    columns: 3
+  Streaming:
+    style: row
+    columns: 3
+  Storage:
+    style: row
+    columns: 3
+  Admin:
+    style: row
+    columns: 3

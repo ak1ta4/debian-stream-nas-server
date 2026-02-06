@@ -1,0 +1,190 @@
+[2026-02-06 09:03:44.293]: Info: Sunshine version: 2025.924.154138 commit: 86188d47a7463b0f73b35de18a628353adeaa20e
+[2026-02-06 09:03:44.293]: Info: Package Publisher: LizardByte
+[2026-02-06 09:03:44.293]: Info: Publisher Website: https://app.lizardbyte.dev
+[2026-02-06 09:03:44.293]: Info: Get support: https://app.lizardbyte.dev/support
+[2026-02-06 09:03:44.296]: Error: Couldn't load cuda: -1
+[2026-02-06 09:03:44.296]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:03:44.296]: Warning: Couldn't open render node: /dev/dri/renderD129: Permission denied
+[2026-02-06 09:03:44.302]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:03:44.302]: Warning: Couldn't open render node: /dev/dri/renderD128: Permission denied
+[2026-02-06 09:03:44.302]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:03:44.302]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:03:44.303]: Error: Environment variable WAYLAND_DISPLAY has not been defined
+[2026-02-06 09:03:44.303]: Info: Detecting displays
+[2026-02-06 09:03:45.515]: Warning: Gamepad ds5 is disabled due to Permission denied
+[2026-02-06 09:03:45.515]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2026-02-06 09:03:45.515]: Info: Trying encoder [nvenc]
+[2026-02-06 09:03:45.515]: Info: Screencasting with KMS
+[2026-02-06 09:03:45.515]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:03:45.518]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:03:45.520]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:03:45.520]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:03:45.522]: Error: Couldn't find monitor [0]
+[2026-02-06 09:03:45.522]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:03:45.525]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:03:45.527]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:03:45.527]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:03:45.529]: Error: Couldn't find monitor [0]
+[2026-02-06 09:03:45.730]: Info: Screencasting with KMS
+[2026-02-06 09:03:45.730]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:03:45.733]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:03:45.735]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:03:45.735]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:03:45.737]: Error: Couldn't find monitor [0]
+[2026-02-06 09:03:45.737]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:03:45.740]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:03:45.742]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:03:45.742]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:03:45.745]: Error: Couldn't find monitor [0]
+[2026-02-06 09:03:45.945]: Info: Encoder [nvenc] failed
+[2026-02-06 09:03:45.945]: Info: Trying encoder [vaapi]
+[2026-02-06 09:03:45.945]: Info: Screencasting with KMS
+[2026-02-06 09:03:45.945]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:03:45.945]: Info: Found monitor for DRM screencasting
+[2026-02-06 09:03:45.945]: Info: Found connector ID [87]
+[2026-02-06 09:03:45.946]: Info: Found cursor plane [70]
+[2026-02-06 09:03:45.959]: Info: Creating encoder [h264_vaapi]
+[2026-02-06 09:03:45.959]: Info: Color coding: SDR (Rec. 601)
+[2026-02-06 09:03:45.959]: Info: Color depth: 8-bit
+[2026-02-06 09:03:45.959]: Info: Color range: JPEG
+[2026-02-06 09:03:45.977]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:03:45.977]: Info: Streaming bitrate is 1000000
+[2026-02-06 09:03:45.977]: Info: Using normal encoding mode
+[2026-02-06 09:03:45.977]: Info: Using default rate control
+[2026-02-06 09:03:46.009]: Info: Creating encoder [hevc_vaapi]
+[2026-02-06 09:03:46.009]: Info: Color coding: SDR (Rec. 601)
+[2026-02-06 09:03:46.009]: Info: Color depth: 8-bit
+[2026-02-06 09:03:46.009]: Info: Color range: JPEG
+[2026-02-06 09:03:46.024]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:03:46.024]: Info: Streaming bitrate is 1000000
+[2026-02-06 09:03:46.024]: Info: Using normal encoding mode
+[2026-02-06 09:03:46.024]: Info: Using default rate control
+[2026-02-06 09:03:46.045]: Info: Creating encoder [av1_vaapi]
+[2026-02-06 09:03:46.045]: Info: Color coding: SDR (Rec. 601)
+[2026-02-06 09:03:46.045]: Info: Color depth: 8-bit
+[2026-02-06 09:03:46.045]: Info: Color range: JPEG
+[2026-02-06 09:03:46.060]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:03:46.060]: Info: Streaming bitrate is 1000000
+[2026-02-06 09:03:46.060]: Error: [av1_vaapi @ 0x55a44b2902c0] No usable encoding profile found.
+[2026-02-06 09:03:46.060]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2026-02-06 09:03:46.061]: Info: Screencasting with KMS
+[2026-02-06 09:03:46.062]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:03:46.062]: Info: Found monitor for DRM screencasting
+[2026-02-06 09:03:46.062]: Info: Found connector ID [87]
+[2026-02-06 09:03:46.062]: Info: Found cursor plane [70]
+[2026-02-06 09:03:46.069]: Info: Creating encoder [hevc_vaapi]
+[2026-02-06 09:03:46.069]: Info: Color coding: SDR (Rec. 709)
+[2026-02-06 09:03:46.069]: Info: Color depth: 10-bit
+[2026-02-06 09:03:46.069]: Info: Color range: JPEG
+[2026-02-06 09:03:46.084]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:03:46.084]: Info: Streaming bitrate is 1000000
+[2026-02-06 09:03:46.084]: Info: Using normal encoding mode
+[2026-02-06 09:03:46.084]: Info: Using default rate control
+[2026-02-06 09:03:46.105]: Info: 
+[2026-02-06 09:03:46.105]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2026-02-06 09:03:46.105]: Info: 
+[2026-02-06 09:03:46.105]: Info: Found H.264 encoder: h264_vaapi [vaapi]
+[2026-02-06 09:03:46.105]: Info: Found HEVC encoder: hevc_vaapi [vaapi]
+[2026-02-06 09:03:46.106]: Info: Starting system tray
+[2026-02-06 09:03:46.108]: Info: Adding avahi service ak1t4-server
+[2026-02-06 09:03:46.108]: Info: Configuration UI available at [https://localhost:47990]
+[2026-02-06 09:03:46.135]: Info: System tray created
+[2026-02-06 09:03:46.135]: Info: Starting main loop
+[2026-02-06 09:03:47.660]: Info: Avahi service ak1t4-server successfully established.
+[2026-02-06 09:46:36.069]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2026-02-06 09:46:36.069]: Info: Trying encoder [nvenc]
+[2026-02-06 09:46:36.070]: Info: Screencasting with KMS
+[2026-02-06 09:46:36.070]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:46:37.627]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:46:37.629]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:46:37.629]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:46:37.631]: Error: Couldn't find monitor [0]
+[2026-02-06 09:46:37.631]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:46:37.634]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:46:37.636]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:46:37.636]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:46:37.638]: Error: Couldn't find monitor [0]
+[2026-02-06 09:46:37.838]: Info: Screencasting with KMS
+[2026-02-06 09:46:37.839]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:46:37.842]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:46:37.844]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:46:37.844]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:46:37.846]: Error: Couldn't find monitor [0]
+[2026-02-06 09:46:37.846]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:46:37.849]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:46:37.851]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:46:37.851]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:46:37.853]: Error: Couldn't find monitor [0]
+[2026-02-06 09:46:38.053]: Info: Encoder [nvenc] failed
+[2026-02-06 09:46:38.054]: Info: Trying encoder [vaapi]
+[2026-02-06 09:46:38.054]: Info: Screencasting with KMS
+[2026-02-06 09:46:38.054]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:46:38.054]: Info: Found monitor for DRM screencasting
+[2026-02-06 09:46:38.054]: Info: Found connector ID [87]
+[2026-02-06 09:46:38.055]: Info: Found cursor plane [70]
+[2026-02-06 09:46:38.073]: Info: Creating encoder [h264_vaapi]
+[2026-02-06 09:46:38.073]: Info: Color coding: SDR (Rec. 601)
+[2026-02-06 09:46:38.073]: Info: Color depth: 8-bit
+[2026-02-06 09:46:38.073]: Info: Color range: JPEG
+[2026-02-06 09:46:38.089]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:46:38.089]: Info: Streaming bitrate is 1000000
+[2026-02-06 09:46:38.089]: Info: Using normal encoding mode
+[2026-02-06 09:46:38.089]: Info: Using default rate control
+[2026-02-06 09:46:38.116]: Info: Creating encoder [hevc_vaapi]
+[2026-02-06 09:46:38.116]: Info: Color coding: SDR (Rec. 601)
+[2026-02-06 09:46:38.116]: Info: Color depth: 8-bit
+[2026-02-06 09:46:38.116]: Info: Color range: JPEG
+[2026-02-06 09:46:38.131]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:46:38.132]: Info: Streaming bitrate is 1000000
+[2026-02-06 09:46:38.132]: Info: Using normal encoding mode
+[2026-02-06 09:46:38.132]: Info: Using default rate control
+[2026-02-06 09:46:38.154]: Info: Creating encoder [av1_vaapi]
+[2026-02-06 09:46:38.154]: Info: Color coding: SDR (Rec. 601)
+[2026-02-06 09:46:38.154]: Info: Color depth: 8-bit
+[2026-02-06 09:46:38.154]: Info: Color range: JPEG
+[2026-02-06 09:46:38.168]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:46:38.168]: Info: Streaming bitrate is 1000000
+[2026-02-06 09:46:38.168]: Error: [av1_vaapi @ 0x7fd6a100cb80] No usable encoding profile found.
+[2026-02-06 09:46:38.168]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2026-02-06 09:46:38.170]: Info: Screencasting with KMS
+[2026-02-06 09:46:38.170]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:46:38.170]: Info: Found monitor for DRM screencasting
+[2026-02-06 09:46:38.170]: Info: Found connector ID [87]
+[2026-02-06 09:46:38.170]: Info: Found cursor plane [70]
+[2026-02-06 09:46:38.177]: Info: Creating encoder [hevc_vaapi]
+[2026-02-06 09:46:38.177]: Info: Color coding: SDR (Rec. 709)
+[2026-02-06 09:46:38.177]: Info: Color depth: 10-bit
+[2026-02-06 09:46:38.177]: Info: Color range: JPEG
+[2026-02-06 09:46:38.191]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:46:38.191]: Info: Streaming bitrate is 1000000
+[2026-02-06 09:46:38.191]: Info: Using normal encoding mode
+[2026-02-06 09:46:38.191]: Info: Using default rate control
+[2026-02-06 09:46:38.212]: Info: 
+[2026-02-06 09:46:38.212]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2026-02-06 09:46:38.212]: Info: 
+[2026-02-06 09:46:38.212]: Info: Found H.264 encoder: h264_vaapi [vaapi]
+[2026-02-06 09:46:38.212]: Info: Found HEVC encoder: hevc_vaapi [vaapi]
+[2026-02-06 09:46:38.212]: Info: Executing [Desktop]
+[2026-02-06 09:46:38.286]: Info: New streaming session started [active sessions: 1]
+[2026-02-06 09:46:38.314]: Info: CLIENT CONNECTED
+[2026-02-06 09:46:38.314]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:46:38.317]: Info: /dev/dri/card0 -> nouveau
+[2026-02-06 09:46:38.319]: Warning: GPU driver doesn't support atomic mode-setting: /dev/dri/card0
+[2026-02-06 09:46:38.319]: Info: Avoiding KMS capture under X11 due to lack of atomic mode-setting
+[2026-02-06 09:46:38.321]: Info: Screencasting with KMS
+[2026-02-06 09:46:38.321]: Info: /dev/dri/card1 -> amdgpu
+[2026-02-06 09:46:38.322]: Info: Found monitor for DRM screencasting
+[2026-02-06 09:46:38.322]: Info: Found connector ID [87]
+[2026-02-06 09:46:38.322]: Info: Found cursor plane [70]
+[2026-02-06 09:46:38.329]: Info: Creating encoder [hevc_vaapi]
+[2026-02-06 09:46:38.329]: Info: Color coding: SDR (Rec. 601)
+[2026-02-06 09:46:38.329]: Info: Color depth: 8-bit
+[2026-02-06 09:46:38.329]: Info: Color range: MPEG
+[2026-02-06 09:46:38.348]: Info: vaapi vendor: Mesa Gallium driver 25.0.7-2 for AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.12.63+deb13-amd64)
+[2026-02-06 09:46:38.348]: Info: Streaming bitrate is 30988000
+[2026-02-06 09:46:38.348]: Info: Using normal encoding mode
+[2026-02-06 09:46:38.348]: Info: Using default rate control
+[2026-02-06 09:46:38.361]: Info: Minimum FPS target set to ~30fps (33.3333ms)
+[2026-02-06 09:46:38.818]: Info: Setting default sink to: [sink-sunshine-stereo]
+[2026-02-06 09:46:38.818]: Info: Found default monitor by name: sink-sunshine-stereo.monitor
+[2026-02-06 09:46:38.854]: Info: Opus initialized: 48 kHz, 2 channels, 512 kbps (total), LOWDELAY

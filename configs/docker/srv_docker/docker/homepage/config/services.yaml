@@ -1,0 +1,27 @@
+- Infra:
+    - Portainer:
+        href: http://192.168.1.55:9000
+        description: Docker UI
+        icon: portainer
+    - Homepage:
+        href: http://192.168.1.55:3000
+        description: Dashboard
+        icon: homepage
+
+- Monitoring:
+    - Glances:
+        href: http://glances:61208
+        description: CPU/RAM/Disco/Red/Sensores
+        icon: glances
+
+- Streaming:
+    - Sunshine:
+        href: https://192.168.1.55:47990
+        description: Sunshine Web UI
+        icon: sunshine
+
+- Storage:
+    - Nextcloud:
+        href: http://192.168.1.55:8080
+        description: Archivos + iPhone/PC
+        icon: nextcloud

@@ -1,0 +1,647 @@
+[2026-02-06T00:30:10.636Z] info: kubernetes.yaml was copied to the config folder
+[2026-02-06T00:30:46.940Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:46.995Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.220Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.226Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.230Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.234Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.239Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.243Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.247Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.255Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.258Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.262Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:30:47.293Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:25.594Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:25.597Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:26.363Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:26.679Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:31.538Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:31.541Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:33.614Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:35.069Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:36.702Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:36.704Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:39.238Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:40.165Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:42.778Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:42.781Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:43.790Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:31:45.621Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:00.249Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:00.262Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.743Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.925Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.930Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.936Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.942Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.946Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.952Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.957Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.962Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.966Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.971Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:01.973Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:02.007Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.405Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.607Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.610Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.612Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.615Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.619Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.622Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.626Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.628Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.629Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.632Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.655Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:33:03.684Z] error: Host validation failed for: 192.168.1.55:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-02-06T00:34:15.000Z] info: docker.yaml was copied to the config folder
+[2026-02-06T00:34:15.002Z] info: proxmox.yaml was copied to the config folder
+[2026-02-06T00:34:15.018Z] info: custom.css was copied to the config folder
+[2026-02-06T00:34:15.018Z] info: custom.js was copied to the config folder
+[2026-02-06T00:51:15.818Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:51:15.827Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:51:15.828Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:51:15.829Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:51:15.830Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:51:15.830Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:51:15.830Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:51:15.831Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:51:15.832Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:53:14.592Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:53:14.593Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:53:14.593Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:53:14.594Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:53:14.595Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:53:14.596Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:53:24.832Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:53:24.833Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:53:24.833Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:53:24.834Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:53:24.834Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:53:24.835Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:56:41.441Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:56:41.447Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:56:41.447Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:56:41.448Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:56:41.450Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:56:41.450Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T00:56:41.451Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T00:56:41.452Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T00:56:41.452Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:03:14.661Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:03:14.665Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:03:14.665Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:03:14.666Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:03:14.667Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:03:14.667Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:03:14.668Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:03:14.668Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:03:14.669Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:13:22.913Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:13:22.923Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:13:22.923Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:13:22.924Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:13:22.925Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:13:22.925Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:13:22.925Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:13:22.926Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:13:22.926Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:13:24.964Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:13:24.965Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:13:24.965Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:13:24.966Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:13:24.968Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:13:24.968Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:13:59.779Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:13:59.780Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:13:59.781Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:13:59.781Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:13:59.782Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:13:59.782Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:14:10.016Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:14:10.017Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:14:10.017Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:14:10.018Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:14:10.018Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:14:10.019Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:14:16.159Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:14:16.160Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:14:16.160Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:14:16.163Z] error: <httpProxy> Error calling http://192.168.1.55:61208/api/4/cpu...
+[2026-02-06T01:14:16.164Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 192.168.1.55:61208
+      at <unknown> (Error: connect ETIMEDOUT 192.168.1.55:61208) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '192.168.1.55',
+    port: 61208
+  }
+]
+[2026-02-06T01:14:16.164Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:15:49.684Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:15:49.689Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:15:49.690Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:15:50.147Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:15:50.149Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:15:50.149Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:15:50.162Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:15:50.163Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:15:50.163Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:15:53.232Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:15:53.233Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:15:53.234Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:18:53.172Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:18:53.177Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:18:53.178Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:18:53.646Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:18:53.648Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:18:53.648Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:18:53.651Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:18:53.652Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:18:53.652Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:18:56.677Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:18:56.678Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:18:56.678Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:18:59.689Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:18:59.690Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:18:59.690Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:19:02.703Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:19:02.704Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:19:02.704Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:19:05.318Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:19:05.319Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:19:05.319Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:19:08.718Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:19:08.719Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:19:08.720Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:19:11.730Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:19:11.731Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:19:11.731Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:19:14.063Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:19:14.064Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:19:14.064Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:20:12.631Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:20:12.632Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:20:12.632Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:20:13.973Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:20:13.973Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:20:13.973Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:20:13.997Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:20:13.998Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:20:13.998Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:20:17.031Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:20:17.032Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:20:17.032Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:20:20.074Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:20:20.074Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:20:20.074Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:20:26.628Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:20:26.629Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:20:26.629Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:20:31.628Z] error: <httpProxy> Error calling http://127.0.0.1:61208/api/4/cpu...
+[2026-02-06T01:20:31.629Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 127.0.0.1:61208
+      at <unknown> (Error: connect ECONNREFUSED 127.0.0.1:61208) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 61208
+  }
+]
+[2026-02-06T01:20:31.629Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]

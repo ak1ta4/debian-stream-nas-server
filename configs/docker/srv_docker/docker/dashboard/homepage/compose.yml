@@ -1,0 +1,23 @@
+services:
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
+    ports:
+      - "3000:3000"
+    environment:
+      - HOMEPAGE_ALLOWED_HOSTS=192.168.1.55:3000,localhost:3000,127.0.0.1:3000
+    volumes:
+      - ./config:/app/config
+    networks:
+      - dashboard
+    restart: unless-stopped
+    networks:
+      - srv
+
+networks:
+  dashboard:
+    external: true
+
+networks:
+  srv:
+    external: true

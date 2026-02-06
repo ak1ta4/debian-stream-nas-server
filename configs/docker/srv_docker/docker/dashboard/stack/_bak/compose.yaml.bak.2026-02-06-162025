@@ -1,0 +1,42 @@
+services:
+  glances:
+    image: nicolargo/glances:latest
+    container_name: glances
+    pid: host
+    environment:
+      - GLANCES_OPT=-w
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /etc/os-release:/host/etc/os-release:ro
+    ports:
+      - "61208:61208"
+    restart: unless-stopped
+    networks:
+      - stack_net
+
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
+    ports:
+      - "3000:3000"
+    environment:
+      - HOMEPAGE_ALLOWED_HOSTS=192.168.1.55:3000,localhost:3000,127.0.0.1:3000
+    volumes:
+      - ./config:/app/config
+    restart: unless-stopped
+    networks:
+      - stack_net
+    depends_on:
+      - glances
+
+networks:
+  stack_net:
+    name: stack_net
+healthcheck:
+  test: ["CMD-SHELL", "wget -qO- http://localhost:61208/api/4/status >/dev/null || exit 1"]
+  interval: 10s
+  timeout: 3s
+  retries: 10
+

@@ -1,0 +1,5 @@
+NAME        FSTYPE FSVER LABEL UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+nvme0n1                                                                            
+├─nvme0n1p1 vfat   FAT32       AEF8-0792                             965.3M     1% /boot/efi
+├─nvme0n1p2 ext4   1.0         efe8a8c1-c4e9-4f66-a020-2ca61433625d  420.8G     2% /
+└─nvme0n1p3 swap   1           1a547ccb-7084-470c-99fc-89cd4cd127c2                [SWAP]

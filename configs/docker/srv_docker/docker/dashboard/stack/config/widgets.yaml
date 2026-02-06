@@ -1,0 +1,15 @@
+- datetime:
+    text_size: xl
+    format:
+      timeStyle: short
+      dateStyle: long
+
+- glances:
+    url: http://glances:61208
+    version: 4
+    cpu: true
+    mem: true
+    disk: true
+    network: true
+    sensors: true
+    process: false

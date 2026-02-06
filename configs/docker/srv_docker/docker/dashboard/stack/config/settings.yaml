@@ -1,0 +1,16 @@
+title: Server Dashboard
+theme: dark
+color: slate
+layout:
+  Infra:
+    style: row
+    columns: 2
+  Monitoring:
+    style: row
+    columns: 2
+  Streaming:
+    style: row
+    columns: 2
+  Storage:
+    style: row
+    columns: 2

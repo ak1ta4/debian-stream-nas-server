@@ -1,0 +1,39 @@
+[2026-02-06T01:27:11.486Z] info: kubernetes.yaml was copied to the config folder
+[2026-02-06T01:27:40.773Z] info: docker.yaml was copied to the config folder
+[2026-02-06T01:27:40.775Z] info: bookmarks.yaml was copied to the config folder
+[2026-02-06T01:27:40.776Z] info: custom.css was copied to the config folder
+[2026-02-06T01:27:40.776Z] info: custom.js was copied to the config folder
+[2026-02-06T01:27:40.830Z] info: proxmox.yaml was copied to the config folder
+[2026-02-06T01:34:08.393Z] error: <httpProxy> Error calling http://glances:61208/api/4/cpu...
+[2026-02-06T01:34:08.400Z] error: <httpProxy> [
+  500,
+  [Error: queryAaaa ENOTFOUND glances] {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'queryAaaa',
+    hostname: 'glances'
+  }
+]
+[2026-02-06T01:34:08.401Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:34:10.711Z] error: <httpProxy> Error calling http://glances:61208/api/4/cpu...
+[2026-02-06T01:34:10.713Z] error: <httpProxy> [
+  500,
+  [Error: queryAaaa ENOTFOUND glances] {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'queryAaaa',
+    hostname: 'glances'
+  }
+]
+[2026-02-06T01:34:10.713Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2026-02-06T01:34:10.733Z] error: <httpProxy> Error calling http://glances:61208/api/4/cpu...
+[2026-02-06T01:34:10.733Z] error: <httpProxy> [
+  500,
+  [Error: queryAaaa ENOTFOUND glances] {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'queryAaaa',
+    hostname: 'glances'
+  }
+]
+[2026-02-06T01:34:10.734Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]

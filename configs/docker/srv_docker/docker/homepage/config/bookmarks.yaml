@@ -1,0 +1,7 @@
+- Admin:
+    - Debian:
+        - abbr: DEB
+          href: https://www.debian.org/
+    - Docker:
+        - abbr: DOC
+          href: https://docs.docker.com/

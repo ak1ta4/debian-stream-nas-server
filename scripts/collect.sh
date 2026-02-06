@@ -30,7 +30,7 @@ copy_if_exists() {
 (ip a || true) > "$OUT/ip_a.txt"
 (systemctl list-unit-files --state=enabled || true) > "$OUT/enabled_services.txt"
 
-# Copias de config útiles
+# Copias de config útiles (si existen)
 copy_if_exists "/srv/docker" "$ROOT/configs/docker/srv_docker"
 copy_if_exists "/etc/modules-load.d/uinput.conf" "$ROOT/configs/modules/uinput.conf"
 copy_if_exists "/etc/udev/rules.d" "$ROOT/configs/udev/rules.d"
@@ -39,5 +39,6 @@ copy_if_exists "/etc/ssh/sshd_config" "$ROOT/configs/ssh/sshd_config"
 copy_if_exists "/etc/ssh/sshd_config.d" "$ROOT/configs/ssh/sshd_config.d"
 copy_if_exists "/home/$USER/.config/sunshine" "$ROOT/configs/sunshine/user_config_sunshine"
 copy_if_exists "/home/$USER/.config/xfce4" "$ROOT/configs/xfce/xfce4"
+copy_if_exists "/home/$USER/.config/syncthing" "$ROOT/configs/syncthing/user_config_syncthing"
 
 echo "[*] inventario guardado en $OUT"
