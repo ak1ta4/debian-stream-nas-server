@@ -1,10 +1,18 @@
-# Debian Stream + NAS Server
+# Debian Stream NAS Server — docs + config (replicable)
 
-Repositorio para reproducir y documentar el setup del servidor:
+Este repo existe para que puedas **repetir el setup del servidor** sin recordar nada.
+No instala nada automáticamente: es **documentación + ejemplos + comandos**.
+
+## Qué incluye
 - Debian + XFCE
 - Sunshine + Moonlight
-- Dashboard (Homepage + Glances)
-- (futuro) Sync/NAS
+- Fix de input (uinput + udev + grupo input)
+- Dashboard (Homepage + Glances en Docker)
+- NAS/Sync: pendiente (opcional)
 
-## Objetivo
-Que cualquiera pueda repetir el setup desde cero siguiendo `docs/`.
+## Lee esto en orden
+- docs/00_overview.md
+- docs/01_dashboard_homepage_glances.md
+- docs/02_sunshine_moonlight_inputs.md
+- docs/05_troubleshooting.md
+- docs/06_security_basics.md
