@@ -1,8 +1,15 @@
+[⬅️ Anterior](00_overview.md) | [🏠 Índice](index.md) | [➡️ Siguiente](02_sunshine_moonlight_xfce.md)
+
 # Dashboard (Homepage + Glances)
 
-Comprobación rápida:
+## Qué es
+- **Homepage**: panel web con accesos a servicios (Portainer, Sunshine, Nextcloud, etc.)
+- **Glances**: métricas del sistema (CPU/RAM/DISK/NET/SENSORS)
+
+## Dónde lo tienes montado (tu caso)
+- Stack: `/srv/docker/dashboard/stack`
+- Homepage: `http://192.168.1.55:3000`
+- Glances: `http://192.168.1.55:61208`
+
+## Comprobación rápida (copy/paste)
 ```bash
-cd /srv/docker/dashboard/stack
-docker compose up -d
-docker ps --format 'table {{.Names}}\t{{.Status}}\t{{.Ports}}' | egrep 'homepage|glances|NAMES'
-docker exec -it homepage sh -lc 'wget -qO- --timeout=2 http://glances:61208/api/4/status | head -c 120; echo'

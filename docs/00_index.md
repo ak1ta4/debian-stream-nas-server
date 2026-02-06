@@ -1,3 +1,5 @@
+[⬅️ Inicio](index.md) | [🏠 Índice](index.md) | [➡️ Siguiente](00_overview.md)
+
 # Índice
 
 1. Dashboard (Homepage + Glances)

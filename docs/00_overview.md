@@ -1,3 +1,5 @@
+[⬅️ Anterior](00_index.md) | [🏠 Índice](index.md) | [➡️ Siguiente](01_dashboard_homepage_glances.md)
+
 # Overview
 
 Rutas típicas:
